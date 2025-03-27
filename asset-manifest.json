@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-meteo-api/static/css/main.959b3a76.css",
+    "main.js": "/test-meteo-api/static/js/main.36600d1c.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/test-meteo-api/static/js/453.0ccb7fb4.chunk.js",
+    "index.html": "/test-meteo-api/index.html",
+    "main.959b3a76.css.map": "/test-meteo-api/static/css/main.959b3a76.css.map",
+    "main.36600d1c.js.map": "/test-meteo-api/static/js/main.36600d1c.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/test-meteo-api/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.959b3a76.css",
+    "static/js/main.36600d1c.js"
+  ]
+}
